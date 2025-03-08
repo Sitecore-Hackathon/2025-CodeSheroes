@@ -23,9 +23,9 @@
 _You can alternately paste a [link here](#docs) to a document within this repo containing the description._
 
 ## Video link
-⟹ Provide a video highlighing your Hackathon module submission and provide a link to the video. You can use any video hosting, file share or even upload the video to this repository. _Just remember to update the link below_
+⟹ A video highlighing Hackathon module submission
 
-⟹ [Replace this Video link](#video-link)
+⟹ https://www.youtube.com/watch?v=Bpx-b1FeAgw
 
 ## Pre-requisites and Dependencies
 
@@ -35,7 +35,8 @@ _You can alternately paste a [link here](#docs) to a document within this repo c
 ## Installation instructions
 ⟹ instruction on how to install module.  
 
-1. Use the Sitecore Installation wizard to install the [package](#https://github.com/Sitecore-Hackathon/2025-CodeSheroes/tree/main/Sitecore%20Packages)
+1. Use the Sitecore Installation wizard to install the [package]
+(#https://github.com/Sitecore-Hackathon/2025-CodeSheroes/tree/main/Sitecore%20Packages)
 Please install
 - Template Packages
 - Demo Content Packages
