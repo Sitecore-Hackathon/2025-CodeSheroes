@@ -19,8 +19,9 @@
 
   - Module Purpose - Automate the Manual data insertion from API(JSON) to Sitecore Item using PowerShell Script
   - Automates API JSON data conversion into multiple Sitecore datasources from a template, reducing manual effort and ensuring consistency. Ideal for dynamic content like product catalogs or event listings.
-
-_You can alternately paste a [link here](#docs) to a document within this repo containing the description._
+  - document Link with details:
+  - https://github.com/Sitecore-Hackathon/2025-CodeSheroes/blob/main/docs/documentation
+    
 
 ## Video link
 ⟹ Provide a video highlighing your Hackathon module submission and provide a link to the video. You can use any video hosting, file share or even upload the video to this repository. _Just remember to update the link below_
@@ -67,6 +68,8 @@ Please install
 ⟹ See the Data Source item with the entries created from API data
 ![DataSourceItem](docs/images/DataSourceItem.png?raw=true "DataSourceItem")
 
+  document Link with details:
+  - https://github.com/Sitecore-Hackathon/2025-CodeSheroes/blob/main/docs/documentation
 
 ## Comments
 Templates and APIs are tightly mapped with the field names. We have created 3 different Templates and Data Sources for Demo purpose. 
