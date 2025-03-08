@@ -52,7 +52,7 @@ Please install
 (If its not visible, then right click in the ribbon area and add it)
 ![DeveloperRibbon](docs/images/DeveloperRibbon.png?raw=true "DeveloperRibbon")
 
-⟹ You will a button named APIDataSync in the Ribbon
+⟹ You will see a button named APIDataSync in the Ribbon
 ![APIDataSync_Button](docs/images/APIDataSync_Button.png?raw=true "APIDataSync_Button")
 
 ⟹ Click on the Button and you will see the model
